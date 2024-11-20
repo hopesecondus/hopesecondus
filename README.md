@@ -6,9 +6,9 @@ Asides tech, I write for fun, bringing my imaginations to life with a pen and pa
 
 ⚡ WANT TO REACH ME? Let's connect via:
 
-- LinkedIn
-- Instagram
-- Twitter
+- LinkedIn: www.linkedin.com/in/hope-secondus-mkpidut
+- Instagram: instagram.com/hopesecondus
+- Twitter: www.twitter.com/@hopesecondusm
   
 
 <!---
