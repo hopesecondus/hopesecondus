@@ -9,8 +9,6 @@ Asides tech, I write for fun, bringing my imaginations to life with a pen and pa
 - LinkedIn
 - Instagram
 - Twitter
-
- 😄 Pronouns: she/her
   
 
 <!---
