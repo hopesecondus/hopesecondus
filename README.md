@@ -1,4 +1,4 @@
-👋Hello! I'm Hope Secondus Mkpidut, an ambitious young lady who has found herself in the world of Data Science. I write numerous Python codes for data, interact with databases using SQL, derive satisfaction using Python and Machine Learning libraries and use Data Visualization tools for graphical representations.
+👋Hello! I'm Hope Secondus Mkpidut, an industrious young lady who has found herself in the world of Data Science. I write numerous Python codes for data, interact with databases using SQL, derive satisfaction using Python and Machine Learning libraries and use Data Visualization tools for graphical representations.
 
 Specializing in Machine Learning and Artificial Intelligence, I currently find myself buried in courses, gaining more insights on Machine Learning algorithms and techniques and perfecting my use of Machine Learning libraries. I look forward to applying these knowledge in realistic projects.
 
